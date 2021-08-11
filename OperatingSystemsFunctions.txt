@@ -1,1 +1,2 @@
 Another operating system function is to establish a user interface
+An operating system function is to execute and provide services for applications software.
